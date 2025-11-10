@@ -1,0 +1,19 @@
+== Changelog ==
+
+= 1.0.0 2025-11-10 =
+* Initial Release
+* Add - Automatic abandoned cart detection and tracking.
+* Add - Customizable email sequence with multiple follow-ups.
+* Add - Dynamic discount incentives (percentage and fixed amount).
+* Add - Free shipping offers for cart recovery.
+* Add - Guest checkout cart recovery support.
+* Add - Secure one-click cart recovery links.
+* Add - Email personalization with customer and product details.
+* Add - Comprehensive analytics dashboard with recovery metrics.
+* Add - Cart recovery rate tracking and reporting.
+* Add - Revenue recovery statistics and insights.
+* Add - Advanced CRON scheduling for email automation.
+* Add - Automated weekly reporting system.
+* Add - Complete email delivery logging.
+* Add - Customizable email templates and timing.
+* Add - WooCommerce integration with native cart data.
