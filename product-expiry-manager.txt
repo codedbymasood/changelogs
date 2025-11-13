@@ -1,0 +1,15 @@
+== Changelog ==
+
+= 1.0.0 2025-10-29 =
+* Initial Release
+* Add - Automatic status updates for expired products (expired, draft, trash, delete).
+* Add - Flexible display options: hide completely or show with expired status.
+* Add - Disabled add-to-cart button for expired products when visible.
+* Add - Flexible expiry options (fixed periods and specific dates).
+* Add - Unlimited email reminders before expiration.
+* Add - Automatic sale pricing for nearly expiring products.
+* Add - Expiry threshold settings to trigger sale prices.
+* Add - Advanced CRON scheduling for reliable monitoring.
+* Add - Automated weekly and monthly reporting.
+* Add - Comprehensive expiry event logging.
+* Add - Complete email delivery logging.
